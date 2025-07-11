@@ -22,7 +22,7 @@ The game emphasizes fun movement, vibrant visuals, and clean game feel.
 ## 🛠️ Built With
 
 - [Unity 6](https://unity.com/)
-- [KayKit Platformer Pack](https://kaylousberg.itch.io/kaykit-platformer-pack) by Kay Lousberg
+- [KayKit Platformer Pack](https://kaylousberg.itch.io/kaykit-platformer) by Kay Lousberg
 - Custom scripts for:
   - Player movement and camera control
   - Puzzle triggers and interaction
@@ -72,7 +72,7 @@ Milestones:
 ## ✨ Credits
 
 - **Art & Assets**  
-  [KayKit Platformer Pack](https://kaylousberg.itch.io/kaykit-platformer-pack) by **Kay Lousberg**
+  [KayKit Platformer Pack](https://kaylousberg.itch.io/kaykit-platformer) by **Kay Lousberg**
 
 - **Game Engine**  
   [Unity 6](https://unity.com/)
