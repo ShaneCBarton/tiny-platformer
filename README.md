@@ -88,5 +88,5 @@ Milestones:
 ## 📫 Contact
 
 **Portfolio:** [Check out my Itch.io page](https://shanecb.itch.io/)  
-**LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/shane-c-barton/)  
+**LinkedIn:** [linkedin.com/in/shane-c-barton](https://www.linkedin.com/in/shane-c-barton/)  
 **Email:** shanecb@hotmail.ca
