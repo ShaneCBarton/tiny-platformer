@@ -32,7 +32,6 @@ public class PlayerMovement : MonoBehaviour
         if (m_isGrounded && m_playerVelocity.y < 0) { m_playerVelocity.y = 0; }
 
         Vector3 movement = new Vector3(m_playerInput.GetMoveInput().x, 0, m_playerInput.GetMoveInput().y);
-        //movement = Vector3.ClampMagnitude(movement, 1f);
         m_playerVelocity.y += Physics.gravity.y * Time.deltaTime;
 
         Vector3 finalMovement = (movement * m_moveSpeed) + (m_playerVelocity.y * Vector3.up);
